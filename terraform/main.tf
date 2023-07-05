@@ -32,7 +32,7 @@ module "demo2" {
   control_tower_parameters = {
     AccountEmail              = "aws-controltower-demo2@cloud-plant.com"
     AccountName               = "demo2-aft"
-    ManagedOrganizationalUnit = "Sandbox1"
+    ManagedOrganizationalUnit = "Sandbox2"
     SSOUserEmail              = "aws-controltower-demo2@cloud-plant.com"
     SSOUserFirstName          = "Demo2"
     SSOUserLastName           = "AFT"
